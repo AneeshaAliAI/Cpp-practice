@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std ;
+int main ()
+{
+	int a = 5 , b= 10 ;
+	cout<<"My arithmetic operations :"<<endl;
+	cout <<"Addition : "<< a+b <<endl;
+	cout <<"subtraction :"<<a-b<<endl;
+	cout<<"Division: "<<a/b<<endl;
+	cout<<"multiplication: "<<a*b<<endl;
+	cout <<"modulus:"<<a%b<<endl;
+	return 0;
+}
